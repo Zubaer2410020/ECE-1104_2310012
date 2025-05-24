@@ -1,4 +1,4 @@
-## ECE-1103_2310012_Lab Reports
+## ECE-1104_2410020_Lab Reports
 <div align="center">
   
 _**Heaven’s Light is Our Guide**_
@@ -32,36 +32,19 @@ _**Heaven’s Light is Our Guide**_
 
 ## Submitted by:
 
-### **Md. Abdullah al Jayed**
+### **Zubaer Ahmed Siam**
 ### [Codeforces](https://codeforces.com/profile/joseph)
-#### Roll No: 2310012
-#### Registration No: 1065
+#### Roll No: 2410020
+#### Registration No: 
 #### Department of Electrical and Computer Engineering
 #### Rajshahi University of Engineering and Technology
 #### Rajshahi - 6204
 
 ---
-</div>
-<div align="center"> 
-
-  
-## INDEX:
-
-| Lab No. | Title | Link | codeforce |
-| :---: | :---: | :---: | :---: |
-| 01 | Basic Problem Solving  | [Lab 01](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab1.md)|
-| 02 | Basic Pattern Printing | [Lab 02](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab2.md)|
-| 03 | Basic Pattern Printing | [Lab 03](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab3.md)|
-| 04 | Opperations on Arrays  | [Lab 04](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab4.md)|   14
-| 05 |        Functions       | [Lab 05](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab5.md)|   21
-| 06 |        Recursions      | [Lab 06](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab6.md)|   07
-| 07 |        Pointers        | [Lab 07](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab7.md)|   37
-| 08 | Programming Exercises  | [Lab 08](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab8.md)|   11
-| 09 | String Related problems| [Lab 09](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab9.md)|   10
-| 10 |     String             | [Lab 10](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab10.md)|   15
-| 11 |     Structure          | [Lab 11](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab11.md)|   02
-
 
 </div>
+
+
+
 
 
